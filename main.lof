@@ -1,0 +1,37 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Γενική Δομή των ΣΔΤΗΑ}}{2}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces προδιαγεγραμμένη συμπεριφορά σφάλματος παρακολούθησης με χρήση εκθετικής συνάρτησης ενεργοποίησης $\rho (t) = (\rho ^{0} - \rho ^{\infty })e^{-\lambda t} + \rho ^{\infty } = (1 - 0.03)e^(-0.8t) + 0.03$ και $\delta = 0.4$, στην περίπτωση που $e(0)>0$}}{4}{figure.caption.19}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Το κλειστό ΣΔΤΗΑ υπό εξέταση}}{9}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Γραφική Παράσταση των συναρτήσεων $T$ και $ST$}}{10}{figure.caption.49}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Απεικόνιση στρατηγικής ελέγχου αλλαγής προτεραιότητας στο σύστημα του Ακόλουθου}}{11}{figure.caption.50}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Σενάριο Καθυστέρησης που ικανοποιεί τις Υποθέσεις}}{22}{figure.caption.142}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Οι γωνίες των αρθρώσεων του \textit {Ακόλουθου} $x_{F_{1,i}}(t)$ μαζί με τις γωνίες των αρθρώσεων του \textit {Ηγέτη} $x_{L_{1,i}}(t)$.}}{22}{figure.caption.143}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Τα σφάλματα παρακολούθησης $x_{F_{1,i}}(t) - x_{L_{1,i}}(t - T_{D})$ και $x_{F_{1,i}}(t) - x_{L_{1,i}}(t)$ μαζί με τις αντίστοιχες συναρτήσεις επίδοσης $\phi _{F_{1,i}}(t)$.}}{23}{figure.caption.144}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{F_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\phi _{F_{2,i}}(t)$.}}{23}{figure.caption.145}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{O_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $Q_{F_{2,i}}$.}}{24}{figure.caption.146}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Η είσοδος ελέγχου του Ακόλουθου $u_{F_{i}}(t)$.}}{24}{figure.caption.147}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Τα σφάλματα $x_{L_{1,i}}(t) - x_{L_{1,i}}(0)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{1,i}}$.}}{25}{figure.caption.148}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Τα σφάλματα $x_{L_{2,i}}(t) - \alpha _{L_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{2,i}}$.}}{25}{figure.caption.149}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Η είσοδος ελέγχου στον \textit {Ηγέτη} $u_{L_{i}}(t) = \alpha _{L_{2,i}}(t) + u_{H_{i}}(t)$ μαζί με τις δυνάμεις που ασκεί ο άνθρωπος πάνω του $\tau _{h_{i}}$.}}{26}{figure.caption.150}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Σενάριος μέτρια παραβίασης συνθηκών χρονικών καθυστερήσεων}}{27}{figure.caption.156}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Οι γωνίες των αρθρώσεων του \textit {Ακόλουθου} $x_{F_{1,i}}(t)$ μαζί με τις γωνίες των αρθρώσεων του \textit {Ηγέτη} $x_{L_{1,i}}(t)$.}}{28}{figure.caption.157}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Τα σφάλματα παρακολούθησης $x_{F_{1,i}}(t) - x_{L_{1,i}}(t - T_{D})$ και $x_{F_{1,i}}(t) - x_{L_{1,i}}(t)$ μαζί με τις αντίστοιχες συναρτήσεις επίδοσης $\phi _{F_{1,i}}(t)$.}}{28}{figure.caption.158}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{F_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\phi _{F_{2,i}}(t)$.}}{29}{figure.caption.159}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{O_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $Q_{F_{2,i}}$.}}{29}{figure.caption.160}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Η είσοδος ελέγχου του \textit {Ακόλουθου} $u_{F_{i}}(t)$.}}{30}{figure.caption.161}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Τα σφάλματα $x_{L_{1,i}}(t) - x_{L_{1,i}}(0)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{1,i}}$.}}{30}{figure.caption.162}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Τα σφάλματα $x_{L_{2,i}}(t) - \alpha _{L_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{2,i}}$.}}{31}{figure.caption.163}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Η είσοδος ελέγχου στον \textit {Ηγέτη} $u_{L_{i}}(t) = \alpha _{L_{2,i}}(t) + u_{H_{i}}(t)$ μαζί με τις δυνάμεις που ασκεί ο άνθρωπος πάνω του $\tau _{h_{i}}$.}}{31}{figure.caption.164}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Σενάριο ακραίας παραβίασης συνθηκών χρονικών καθυστερήσεων}}{32}{figure.caption.167}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Οι γωνίες των αρθρώσεων του \textit {Ακόλουθου} $x_{F_{1,i}}(t)$ μαζί με τις γωνίες των αρθρώσεων του \textit {Ηγέτη} $x_{L_{1,i}}(t)$.}}{32}{figure.caption.168}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Τα σφάλματα παρακολούθησης $x_{F_{1,i}}(t) - x_{L_{1,i}}(t - T_{D})$ και $x_{F_{1,i}}(t) - x_{L_{1,i}}(t)$ μαζί με τις αντίστοιχες συναρτήσεις επίδοσης $\phi _{F_{1,i}}(t)$.}}{33}{figure.caption.169}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{F_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\phi _{F_{2,i}}(t)$.}}{33}{figure.caption.170}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Τα ενδιάμεσα σφάλματα $x_{F_{2,i}}(t) - \alpha _{O_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $Q_{F_{2,i}}$.}}{34}{figure.caption.171}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Η είσοδος ελέγχου του \textit {Ακόλουθου} $u_{F_{i}}(t)$.}}{34}{figure.caption.172}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Τα σφάλματα $x_{L_{1,i}}(t) - x_{L_{1,i}}(0)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{1,i}}$.}}{35}{figure.caption.173}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Τα σφάλματα $x_{L_{2,i}}(t) - \alpha _{L_{1,i}}(t)$ μαζί με τα αντίστοιχα όρια επίδοσης $\rho _{L_{2,i}}$.}}{35}{figure.caption.174}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Η είσοδος ελέγχου στον \textit {Ηγέτη} $u_{L_{i}}(t) = \alpha _{L_{2,i}}(t) + u_{H_{i}}(t)$ μαζί με τις δυνάμεις που ασκεί ο άνθρωπος πάνω του $\tau _{h_{i}}$.}}{36}{figure.caption.175}%
+\addvspace {10\p@ }

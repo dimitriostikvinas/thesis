@@ -1,0 +1,1067 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{qureshi2016leader}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=128c0332a2fc871f7c02b73c2d4d3c4d}{%
+           family={Qureshi},
+           familyi={Q\bibinitperiod},
+           given={Ahmed\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c121a3b1d0608a651351a02e20fd3168}{%
+           family={Yousuf},
+           familyi={Y\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ad26bf16eeaee427e8e36bea35587822}{%
+           family={Scherer},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8aacd27986faa470292e15c97786c94c}
+      \strng{fullhash}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \strng{fullhashraw}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \strng{bibnamehash}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \strng{authorbibnamehash}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \strng{authornamehash}{8aacd27986faa470292e15c97786c94c}
+      \strng{authorfullhash}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \strng{authorfullhashraw}{0bcfb2e6291c9d9bd310b0dfad501aaf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Robotics and Automation Letters}
+      \field{number}{2}
+      \field{title}{Leader-follower-based synchronized teleoperation for multi-robot systems}
+      \field{volume}{1}
+      \field{year}{2016}
+      \field{pages}{607\bibrangedash 614}
+      \range{pages}{8}
+    \endentry
+    \entry{hunukumbure2013teleoperation}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=14fdea1b996fa854d3f28bdc31367560}{%
+           family={Hunukumbure},
+           familyi={H\bibinitperiod},
+           given={Malith},
+           giveni={M\bibinitperiod}}}%
+        {{hash=af9f7c73a3775f453b93fd3e906dd877}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=050898ffa4bfee6ade7e0dff269326d1}{%
+           family={Abbass},
+           familyi={A\bibinitperiod},
+           given={Hussein\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4c1be3402434f235d3292e7ff3cce5e9}
+      \strng{fullhash}{f3ca1168e80a044636d22bc80c6d04e0}
+      \strng{fullhashraw}{f3ca1168e80a044636d22bc80c6d04e0}
+      \strng{bibnamehash}{f3ca1168e80a044636d22bc80c6d04e0}
+      \strng{authorbibnamehash}{f3ca1168e80a044636d22bc80c6d04e0}
+      \strng{authornamehash}{4c1be3402434f235d3292e7ff3cce5e9}
+      \strng{authorfullhash}{f3ca1168e80a044636d22bc80c6d04e0}
+      \strng{authorfullhashraw}{f3ca1168e80a044636d22bc80c6d04e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Autonomous Robots}
+      \field{number}{4}
+      \field{title}{A teleoperation control scheme for unmanned aerial vehicle (UAV) swarms using leader-follower models}
+      \field{volume}{35}
+      \field{year}{2013}
+      \field{pages}{401\bibrangedash 419}
+      \range{pages}{19}
+    \endentry
+    \entry{guo2018leader}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=56371788d86348caafb8f1cf91398ef6}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=57f7f0240f141850db99567185d1a24c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ce0ecd9afe347d2cd163287f83b94a41}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Hesheng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a84576ed9661ee6716ea41565b75a4b5}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{c587ea56532a8734a76ff7003ac768b8}
+      \strng{fullhash}{98dbbfa706855a4b6ab13aeb6fd712f0}
+      \strng{fullhashraw}{98dbbfa706855a4b6ab13aeb6fd712f0}
+      \strng{bibnamehash}{c587ea56532a8734a76ff7003ac768b8}
+      \strng{authorbibnamehash}{c587ea56532a8734a76ff7003ac768b8}
+      \strng{authornamehash}{c587ea56532a8734a76ff7003ac768b8}
+      \strng{authorfullhash}{98dbbfa706855a4b6ab13aeb6fd712f0}
+      \strng{authorfullhashraw}{98dbbfa706855a4b6ab13aeb6fd712f0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{number}{2}
+      \field{title}{Leader-follower cooperative teleoperation for minimally invasive surgery}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{575\bibrangedash 586}
+      \range{pages}{12}
+    \endentry
+    \entry{jaloudi2019leader}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=05f2530d3ff1ae4fefa0eb02324e0b76}{%
+           family={Jaloudi},
+           familyi={J\bibinitperiod},
+           given={Mohammad\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2130b49c8ada2dc4ed948d9208ea96f7}{%
+           family={Alloghani},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{fullhash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{fullhashraw}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{bibnamehash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{authorbibnamehash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{authornamehash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{authorfullhash}{5fdd889c4e6761463c4f226e0535e211}
+      \strng{authorfullhashraw}{5fdd889c4e6761463c4f226e0535e211}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Advanced Transportation}
+      \field{title}{Leader-follower control of teleoperated autonomous vehicles in dynamic environments}
+      \field{volume}{2019}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+    \entry{yuan2021leader}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6c439ca8b87dde3e13d914eac0223d93}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Tianwei},
+           giveni={T\bibinitperiod}}}%
+        {{hash=58d17121c4ef1863d207a2a82bc9b622}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhenxing},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a06439f6ec7e67292403650716a58d18}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Haibo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{feee10164ef20105a0d73a03f72597a7}
+      \strng{fullhash}{62256743be7d09614cbe3699dacfb786}
+      \strng{fullhashraw}{62256743be7d09614cbe3699dacfb786}
+      \strng{bibnamehash}{62256743be7d09614cbe3699dacfb786}
+      \strng{authorbibnamehash}{62256743be7d09614cbe3699dacfb786}
+      \strng{authornamehash}{feee10164ef20105a0d73a03f72597a7}
+      \strng{authorfullhash}{62256743be7d09614cbe3699dacfb786}
+      \strng{authorfullhashraw}{62256743be7d09614cbe3699dacfb786}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ocean Engineering}
+      \field{title}{Leader-follower teleoperation of autonomous underwater robots for cooperative marine tasks}
+      \field{volume}{241}
+      \field{year}{2021}
+      \field{pages}{110002}
+      \range{pages}{1}
+    \endentry
+    \entry{hou2017leader}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6c8bb3e62bdb45979a53e9a7fb57125f}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9bd83dc1c45ef7b4ce64ee89997ab735}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=24bece773e8873ff8f03d9a3eced56df}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{528a3cb463eb45fc80441d1576a85923}
+      \strng{fullhash}{e20da371e378707c9de8f1ab065742b2}
+      \strng{fullhashraw}{e20da371e378707c9de8f1ab065742b2}
+      \strng{bibnamehash}{e20da371e378707c9de8f1ab065742b2}
+      \strng{authorbibnamehash}{e20da371e378707c9de8f1ab065742b2}
+      \strng{authornamehash}{528a3cb463eb45fc80441d1576a85923}
+      \strng{authorfullhash}{e20da371e378707c9de8f1ab065742b2}
+      \strng{authorfullhashraw}{e20da371e378707c9de8f1ab065742b2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IFAC-PapersOnLine}
+      \field{number}{1}
+      \field{title}{Leader-follower teleoperation system for agricultural robot teams}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{pages}{11623\bibrangedash 11628}
+      \range{pages}{6}
+    \endentry
+    \entry{nakamura2017leader}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=75803b062bbe910763085b77d194b2f3}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Toshihiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ffea0af785d8bbc57de542f3380dfd59}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={Yoshi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=524f7c0b077a8fb7c92c66c25fd30b37}{%
+           family={Kimura},
+           familyi={K\bibinitperiod},
+           given={Yuji},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{da20cf9cb8bac3d2d8fe00466ed12f56}
+      \strng{fullhash}{7da85e4324a9dfad8164c89df4474c67}
+      \strng{fullhashraw}{7da85e4324a9dfad8164c89df4474c67}
+      \strng{bibnamehash}{7da85e4324a9dfad8164c89df4474c67}
+      \strng{authorbibnamehash}{7da85e4324a9dfad8164c89df4474c67}
+      \strng{authornamehash}{da20cf9cb8bac3d2d8fe00466ed12f56}
+      \strng{authorfullhash}{7da85e4324a9dfad8164c89df4474c67}
+      \strng{authorfullhashraw}{7da85e4324a9dfad8164c89df4474c67}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Manufacturing Systems}
+      \field{title}{Leader-follower robot teleoperation in industrial manufacturing environments}
+      \field{volume}{45}
+      \field{year}{2017}
+      \field{pages}{110\bibrangedash 121}
+      \range{pages}{12}
+    \endentry
+    \entry{chopra2008synchronization}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6459a8a322c4ec7c1e767b09c39fc3b7}{%
+           family={Chopra},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e9120aaec65cab36d4cb2a623900f475}{%
+           family={Spong},
+           familyi={S\bibinitperiod},
+           given={M.W.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0fceb8101a2726c8f843634ff1877b1d}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7c35d0b54dff451ad51183a1ec06faf}
+      \strng{fullhash}{5b385ee8ab9d315d929d7197ecf7826f}
+      \strng{fullhashraw}{5b385ee8ab9d315d929d7197ecf7826f}
+      \strng{bibnamehash}{5b385ee8ab9d315d929d7197ecf7826f}
+      \strng{authorbibnamehash}{5b385ee8ab9d315d929d7197ecf7826f}
+      \strng{authornamehash}{f7c35d0b54dff451ad51183a1ec06faf}
+      \strng{authorfullhash}{5b385ee8ab9d315d929d7197ecf7826f}
+      \strng{authorfullhashraw}{5b385ee8ab9d315d929d7197ecf7826f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{number}{8}
+      \field{title}{Synchronization of bilateral teleoperators with time delay}
+      \field{volume}{44}
+      \field{year}{2008}
+      \field{pages}{2142\bibrangedash 2148}
+      \range{pages}{7}
+    \endentry
+    \entry{mohammadi2012control}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=dc40de23024832c402afd5b960705dd1}{%
+           family={Mohammadi},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=966bb7d363a9bf1e11909fde8dc40064}{%
+           family={Tavakoli},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=339f6b5fd99bb23857faa90f3d92185b}{%
+           family={Marquez},
+           familyi={M\bibinitperiod},
+           given={H.J.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0538ccb2f2ce8b9aefc08f703251e055}
+      \strng{fullhash}{320fe7d96f6cbbb4dee8356b42667995}
+      \strng{fullhashraw}{320fe7d96f6cbbb4dee8356b42667995}
+      \strng{bibnamehash}{320fe7d96f6cbbb4dee8356b42667995}
+      \strng{authorbibnamehash}{320fe7d96f6cbbb4dee8356b42667995}
+      \strng{authornamehash}{0538ccb2f2ce8b9aefc08f703251e055}
+      \strng{authorfullhash}{320fe7d96f6cbbb4dee8356b42667995}
+      \strng{authorfullhashraw}{320fe7d96f6cbbb4dee8356b42667995}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 IEEE/RSJ International Conference on Intelligent Robots and Systems}
+      \field{title}{Control of nonlinear teleoperation systems subject to disturbances and variable time delays}
+      \field{year}{2012}
+      \field{pages}{3017\bibrangedash 3022}
+      \range{pages}{6}
+    \endentry
+    \entry{wang2021bilateral}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=39856f0439f35f79a8eed8b12d26166c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{fullhash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{fullhashraw}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{bibnamehash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{authorbibnamehash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{authornamehash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{authorfullhash}{39856f0439f35f79a8eed8b12d26166c}
+      \strng{authorfullhashraw}{39856f0439f35f79a8eed8b12d26166c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{title}{Bilateral control of teleoperator systems with time-varying delay}
+      \field{volume}{134}
+      \field{year}{2021}
+      \field{pages}{109707}
+      \range{pages}{1}
+    \endentry
+    \entry{estrada2021stable}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b0089bb6c59bb763e75ea793ef47883f}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7bb130920924a4b530cdfe30437c8d8b}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c9a3728dcc2397d1bab78a791b51779b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{15b0bf8ec7c7070aed8192d145b85ddf}
+      \strng{fullhash}{6e2b83e71d7d707e02bdb5907572276c}
+      \strng{fullhashraw}{6e2b83e71d7d707e02bdb5907572276c}
+      \strng{bibnamehash}{6e2b83e71d7d707e02bdb5907572276c}
+      \strng{authorbibnamehash}{6e2b83e71d7d707e02bdb5907572276c}
+      \strng{authornamehash}{15b0bf8ec7c7070aed8192d145b85ddf}
+      \strng{authorfullhash}{6e2b83e71d7d707e02bdb5907572276c}
+      \strng{authorfullhashraw}{6e2b83e71d7d707e02bdb5907572276c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Franklin Institute}
+      \field{number}{3}
+      \field{title}{Stable bilateral teleoperation with phase transition and haptic feedback}
+      \field{volume}{358}
+      \field{year}{2021}
+      \field{pages}{1940\bibrangedash 1956}
+      \range{pages}{17}
+    \endentry
+    \entry{zhang2022adaptive}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=24007f156eb06261431b2b25b64844f8}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6461dd114b47ad7a86d7d9d9794d1089}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=89b6a98b2f62d3ddfdac44ef9126d99c}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7833af6cd05924221d0d318a3954903b}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=34eb0d3545d5a6175d27a342936002b1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=0f2234b06477ac71f67fe16d3e2b397f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{de2884720cdf1d0585d9aab9a29bb612}
+      \strng{fullhash}{0e3cb66a67e04ac53f09ce38801481c2}
+      \strng{fullhashraw}{0e3cb66a67e04ac53f09ce38801481c2}
+      \strng{bibnamehash}{de2884720cdf1d0585d9aab9a29bb612}
+      \strng{authorbibnamehash}{de2884720cdf1d0585d9aab9a29bb612}
+      \strng{authornamehash}{de2884720cdf1d0585d9aab9a29bb612}
+      \strng{authorfullhash}{0e3cb66a67e04ac53f09ce38801481c2}
+      \strng{authorfullhashraw}{0e3cb66a67e04ac53f09ce38801481c2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Cybernetics}
+      \field{number}{9}
+      \field{title}{Adaptive neural network fixed-time control design for bilateral teleoperation with time delay}
+      \field{volume}{52}
+      \field{year}{2022}
+      \field{pages}{9756\bibrangedash 9769}
+      \range{pages}{14}
+    \endentry
+    \entry{ohkawa2011passivity}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=80293faa412b3a15280985dc46c71e9b}{%
+           family={Ohkawa},
+           familyi={O\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4688fe8b1af03450457579368178ee8d}{%
+           family={Yamashita},
+           familyi={Y\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{fullhash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{fullhashraw}{1946bb8829948c851a2c71d6db267a58}
+      \strng{bibnamehash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{authorbibnamehash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{authornamehash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{authorfullhash}{1946bb8829948c851a2c71d6db267a58}
+      \strng{authorfullhashraw}{1946bb8829948c851a2c71d6db267a58}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IFAC Proceedings Volumes}
+      \field{number}{1}
+      \field{title}{Passivity based control of bilateral teleoperators with time delay using low-pass filters}
+      \field{volume}{44}
+      \field{year}{2011}
+      \field{pages}{3274\bibrangedash 3279}
+      \range{pages}{6}
+    \endentry
+    \entry{liu2013control}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1b7d1dee88cee59c7b24aa87aa00b979}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Y.C.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6459a8a322c4ec7c1e767b09c39fc3b7}{%
+           family={Chopra},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{fullhash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{fullhashraw}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{bibnamehash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{authorbibnamehash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{authornamehash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{authorfullhash}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \strng{authorfullhashraw}{ff7d2c6bbbe392cf62dc5345a95c934f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{number}{6}
+      \field{title}{Control of semi-autonomous teleoperation system with time delays}
+      \field{volume}{49}
+      \field{year}{2013}
+      \field{pages}{1553\bibrangedash 1565}
+      \range{pages}{13}
+    \endentry
+    \entry{abdessameud2017leader}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=62ec1e974005f1105c1ae91d1d755af0}{%
+           family={Abdessameud},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1871773da653a6dbe274b57b805ad732}{%
+           family={Tayebi},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a51671b615a2fee66181415bfb0456ca}{%
+           family={Polushin},
+           familyi={P\bibinitperiod},
+           given={I.G.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d7a171b1acac482ae32e08735866290}
+      \strng{fullhash}{413e610c06ad400935c789ccafc4761e}
+      \strng{fullhashraw}{413e610c06ad400935c789ccafc4761e}
+      \strng{bibnamehash}{413e610c06ad400935c789ccafc4761e}
+      \strng{authorbibnamehash}{413e610c06ad400935c789ccafc4761e}
+      \strng{authornamehash}{8d7a171b1acac482ae32e08735866290}
+      \strng{authorfullhash}{413e610c06ad400935c789ccafc4761e}
+      \strng{authorfullhashraw}{413e610c06ad400935c789ccafc4761e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{number}{5}
+      \field{title}{Leader-follower synchronization of Euler-Lagrange systems with time-varying leader trajectory and constrained discrete-time communication}
+      \field{volume}{62}
+      \field{year}{2017}
+      \field{pages}{2539\bibrangedash 2545}
+      \range{pages}{7}
+    \endentry
+    \entry{forouzantabar2012bilateral}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0a10d1e5046812550361c43c3144ecf5}{%
+           family={Forouzantabar},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=17eb908b3532fce6057142d07497f56d}{%
+           family={Talebi},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a9b8adf04ebb85601d972004cc351441}{%
+           family={Sedigh},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4cc17e180bfd71677579a0ff4260967}
+      \strng{fullhash}{6f5d90822dadb568f7adade47057b4b3}
+      \strng{fullhashraw}{6f5d90822dadb568f7adade47057b4b3}
+      \strng{bibnamehash}{6f5d90822dadb568f7adade47057b4b3}
+      \strng{authorbibnamehash}{6f5d90822dadb568f7adade47057b4b3}
+      \strng{authornamehash}{c4cc17e180bfd71677579a0ff4260967}
+      \strng{authorfullhash}{6f5d90822dadb568f7adade47057b4b3}
+      \strng{authorfullhashraw}{6f5d90822dadb568f7adade47057b4b3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISA Transactions}
+      \field{number}{1}
+      \field{title}{Bilateral control of master-slave manipulators with constant time delay}
+      \field{volume}{51}
+      \field{year}{2012}
+      \field{pages}{74\bibrangedash 80}
+      \range{pages}{7}
+    \endentry
+    \entry{yan2014consensus}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=1672e704b232a979a2e7fa536aac3140}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=52e3dca013dbdc25b949dac9fa7280d3}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=4a41a8c896da0124ca40ccc8b084022b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=52f9b5586b01731c8d73fc60c13dcc50}{%
+           family={Hua},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=165db613d775bbf5d222a9649de39960}{%
+           family={Guan},
+           familyi={G\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb016eea3a0bb8873954b3dcdbef7be5}
+      \strng{fullhash}{fdb9efe02d1f7c185b15b1f1543e669c}
+      \strng{fullhashraw}{fdb9efe02d1f7c185b15b1f1543e669c}
+      \strng{bibnamehash}{eb016eea3a0bb8873954b3dcdbef7be5}
+      \strng{authorbibnamehash}{eb016eea3a0bb8873954b3dcdbef7be5}
+      \strng{authornamehash}{eb016eea3a0bb8873954b3dcdbef7be5}
+      \strng{authorfullhash}{fdb9efe02d1f7c185b15b1f1543e669c}
+      \strng{authorfullhashraw}{fdb9efe02d1f7c185b15b1f1543e669c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Intelligent \& Robotic Systems}
+      \field{number}{2}
+      \field{title}{Consensus of multi-slave bilateral teleoperation system with time-varying delays}
+      \field{volume}{76}
+      \field{year}{2014}
+      \field{pages}{239\bibrangedash 253}
+      \range{pages}{15}
+    \endentry
+    \entry{li2016bilateral}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e2e65bc31792929cfaa15cecf7f23965}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=562a0fd9b24e8519b4c569bbae342d32}{%
+           family={Kawashima},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{fullhash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{fullhashraw}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{bibnamehash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{authorbibnamehash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{authornamehash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{authorfullhash}{10f4bf354681e7cd7082575d8b47a594}
+      \strng{authorfullhashraw}{10f4bf354681e7cd7082575d8b47a594}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Robotics and Computer-Integrated Manufacturing}
+      \field{title}{Bilateral teleoperation with delayed force feedback using time domain passivity controller}
+      \field{volume}{37}
+      \field{year}{2016}
+      \field{pages}{188\bibrangedash 196}
+      \range{pages}{9}
+    \endentry
+    \entry{nuno2018control}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a0469eaf46bbb37362d61f4cfabe1a33}{%
+           family={Nuño},
+           familyi={N\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d16d4f7072545dabc3243accb50e5809}{%
+           family={Arteaga-Pérez},
+           familyi={A\bibinithyphendelim P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d34fa8471e52e7b8dd7cf6fbe00807c2}{%
+           family={Espinosa-Pérez},
+           familyi={E\bibinithyphendelim P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{56b4e9431a452802ee59d75ce131a349}
+      \strng{fullhash}{e228901df9ffe7614930db28f9ec6cda}
+      \strng{fullhashraw}{e228901df9ffe7614930db28f9ec6cda}
+      \strng{bibnamehash}{e228901df9ffe7614930db28f9ec6cda}
+      \strng{authorbibnamehash}{e228901df9ffe7614930db28f9ec6cda}
+      \strng{authornamehash}{56b4e9431a452802ee59d75ce131a349}
+      \strng{authorfullhash}{e228901df9ffe7614930db28f9ec6cda}
+      \strng{authorfullhashraw}{e228901df9ffe7614930db28f9ec6cda}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Robust and Nonlinear Control}
+      \field{number}{3}
+      \field{title}{Control of bilateral teleoperators with time delays using only position measurements}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{808\bibrangedash 824}
+      \range{pages}{17}
+    \endentry
+    \entry{su2020bilateral}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=6e01ea27993d7bf118b61b083fcf92ff}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=724de1e02579629c901884291f5e2ead}{%
+           family={Schmirander},
+           familyi={S\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ae6f64f7b429f6425fbe070323390f1b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0e666ca1ec9bdcee719414b2940abf9a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=acf1c60053e86cac8c7320801a487c6f}{%
+           family={Ferrigno},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8fabf628f5f05e8c865e7d67bdff597f}{%
+           family={De\bibnamedelima Momi},
+           familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b602c49fddff84a4137f4713d65ac18}
+      \strng{fullhash}{d9a2d85143c3b9fa645ea2b3891036d1}
+      \strng{fullhashraw}{d9a2d85143c3b9fa645ea2b3891036d1}
+      \strng{bibnamehash}{4b602c49fddff84a4137f4713d65ac18}
+      \strng{authorbibnamehash}{4b602c49fddff84a4137f4713d65ac18}
+      \strng{authornamehash}{4b602c49fddff84a4137f4713d65ac18}
+      \strng{authorfullhash}{d9a2d85143c3b9fa645ea2b3891036d1}
+      \strng{authorfullhashraw}{d9a2d85143c3b9fa645ea2b3891036d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{title}{Bilateral teleoperation control of a redundant manipulator with an RCM kinematic constraint}
+      \field{year}{2020}
+      \field{pages}{4477\bibrangedash 4482}
+      \range{pages}{6}
+    \endentry
+    \entry{BIKAS20239972}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=0fc07bd5b496662a2055fdd1b782e364}{%
+           family={Bikas},
+           familyi={B\bibinitperiod},
+           given={Lampros\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=18bc1b76b3b1e2b618b1bafa056d9e03}{%
+           family={Sidiropoulos},
+           familyi={S\bibinitperiod},
+           given={Antonis},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4cacb7d97e2b9901168c5ca1559bbe44}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={George\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=65f25c622ada8b55bdd3e24ea24dc4ee}{%
+           family={Doulgeri},
+           familyi={D\bibinitperiod},
+           given={Zoe},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce138ad35c14eca198ea110f6c448dcc}
+      \strng{fullhash}{53a72cecd93816e29ca519b593d48c2a}
+      \strng{fullhashraw}{53a72cecd93816e29ca519b593d48c2a}
+      \strng{bibnamehash}{ce138ad35c14eca198ea110f6c448dcc}
+      \strng{authorbibnamehash}{ce138ad35c14eca198ea110f6c448dcc}
+      \strng{authornamehash}{ce138ad35c14eca198ea110f6c448dcc}
+      \strng{authorfullhash}{53a72cecd93816e29ca519b593d48c2a}
+      \strng{authorfullhashraw}{53a72cecd93816e29ca519b593d48c2a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IFAC-PapersOnLine}
+      \field{note}{22nd IFAC World Congress}
+      \field{number}{2}
+      \field{title}{Model-free control of bilateral robotic teleoperation with delays and prescribed performance guarantees}
+      \field{volume}{56}
+      \field{year}{2023}
+    \endentry
+    \entry{bikas2019enhancing}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=7888452aeb90855fc404a28a314aeb1e}{%
+           family={Bikas},
+           familyi={B\bibinitperiod},
+           given={L.N.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ea1106c6f607e91c0881ae02c80578b8}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{fullhash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{fullhashraw}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{bibnamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorbibnamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authornamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorfullhash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorfullhashraw}{83a9f105c5344ed3b574a449aa81c013}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE 58th Conference on Decision and Control (CDC)}
+      \field{title}{Towards enhancing robustness of prescribed performance controllers in the presence of control input delays}
+      \field{year}{2019}
+      \field{pages}{6152\bibrangedash 6157}
+      \range{pages}{6}
+    \endentry
+    \entry{bikas2021prescribed}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=7888452aeb90855fc404a28a314aeb1e}{%
+           family={Bikas},
+           familyi={B\bibinitperiod},
+           given={L.N.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ea1106c6f607e91c0881ae02c80578b8}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{fullhash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{fullhashraw}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{bibnamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorbibnamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authornamehash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorfullhash}{83a9f105c5344ed3b574a449aa81c013}
+      \strng{authorfullhashraw}{83a9f105c5344ed3b574a449aa81c013}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{title}{Prescribed performance tracking of uncertain MIMO nonlinear systems in the presence of delays}
+      \field{year}{2021}
+    \endentry
+    \entry{bechlioulis2008robust}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bb455a943c0a4846e1172866714ab2f2}{%
+           family={Bechlioulis},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ea1106c6f607e91c0881ae02c80578b8}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{fullhash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{fullhashraw}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{bibnamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorbibnamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authornamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorfullhash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorfullhashraw}{3800706c5ffd93425b58ba45cba858ac}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{number}{9}
+      \field{title}{Robust adaptive control of feedback linearizable MIMO nonlinear systems with prescribed performance}
+      \field{volume}{53}
+      \field{year}{2008}
+      \field{pages}{2090\bibrangedash 2099}
+      \range{pages}{10}
+    \endentry
+    \entry{author2009adaptive}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=bb455a943c0a4846e1172866714ab2f2}{%
+           family={Bechlioulis},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ea1106c6f607e91c0881ae02c80578b8}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{fullhash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{fullhashraw}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{bibnamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorbibnamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authornamehash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorfullhash}{3800706c5ffd93425b58ba45cba858ac}
+      \strng{authorfullhashraw}{3800706c5ffd93425b58ba45cba858ac}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{number}{2}
+      \field{title}{Adaptive control with guaranteed transient and steady state tracking error bounds for strict feedback systems}
+      \field{volume}{45}
+      \field{year}{2009}
+      \field{pages}{532\bibrangedash 538}
+      \range{pages}{7}
+    \endentry
+    \entry{katsoukis2021low}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=08c9e277596d95ffb671645bdccbb5e5}{%
+           family={Katsoukis},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ea1106c6f607e91c0881ae02c80578b8}{%
+           family={Rovithakis},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{733c3c60a25e591514c9426e63245b26}
+      \strng{fullhash}{733c3c60a25e591514c9426e63245b26}
+      \strng{fullhashraw}{733c3c60a25e591514c9426e63245b26}
+      \strng{bibnamehash}{733c3c60a25e591514c9426e63245b26}
+      \strng{authorbibnamehash}{733c3c60a25e591514c9426e63245b26}
+      \strng{authornamehash}{733c3c60a25e591514c9426e63245b26}
+      \strng{authorfullhash}{733c3c60a25e591514c9426e63245b26}
+      \strng{authorfullhashraw}{733c3c60a25e591514c9426e63245b26}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{number}{6}
+      \field{title}{A low complexity robust output synchronization protocol with prescribed performance for high-order heterogeneous uncertain MIMO nonlinear multiagent systems}
+      \field{volume}{67}
+      \field{year}{2021}
+      \field{pages}{3128\bibrangedash 3133}
+      \range{pages}{6}
+    \endentry
+    \entry{bresch2018robust}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=6521419fbe08940be2c43b76c492c49f}{%
+           family={Bresch-Pietri},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b6d86740e467a25a0fab5d6b8d7cc8c0}{%
+           family={Mazenc},
+           familyi={M\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=27adbcc11e8992a637a3763336df038c}{%
+           family={Petit},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5db85fdae72e812643b69fda3111e7d}
+      \strng{fullhash}{bad5448bbf17ed8223119f09dffda0a1}
+      \strng{fullhashraw}{bad5448bbf17ed8223119f09dffda0a1}
+      \strng{bibnamehash}{bad5448bbf17ed8223119f09dffda0a1}
+      \strng{authorbibnamehash}{bad5448bbf17ed8223119f09dffda0a1}
+      \strng{authornamehash}{e5db85fdae72e812643b69fda3111e7d}
+      \strng{authorfullhash}{bad5448bbf17ed8223119f09dffda0a1}
+      \strng{authorfullhashraw}{bad5448bbf17ed8223119f09dffda0a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{title}{Robust compensation of a chattering time-varying input delay with jumps}
+      \field{volume}{92}
+      \field{year}{2018}
+      \field{pages}{225\bibrangedash 234}
+      \range{pages}{10}
+    \endentry
+    \entry{khalil2002nonlinear}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=58e274a4049e547f88d35c2c5f6b37e0}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={H.K.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{fullhash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{fullhashraw}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{bibnamehash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{authorbibnamehash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{authornamehash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{authorfullhash}{58e274a4049e547f88d35c2c5f6b37e0}
+      \strng{authorfullhashraw}{58e274a4049e547f88d35c2c5f6b37e0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780130673893}
+      \field{series}{Pearson Education}
+      \field{title}{Nonlinear Systems}
+      \field{year}{2002}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
